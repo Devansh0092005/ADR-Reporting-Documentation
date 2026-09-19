@@ -5,10 +5,6 @@
 A 55-year-old patient with hypertension was prescribed **amlodipine 5 mg once daily**. After approximately two weeks of treatment, the patient developed **swelling of both ankles and feet**. The patient had no previous history of significant leg swelling. After consultation with the doctor, amlodipine was discontinued and an alternative antihypertensive medication was prescribed. The ankle swelling gradually improved.
 
 # ADVERSE DRUG REACTION (ADR) REPORTING FORM
-
-**Task ID:** task2
-**Report Type:** Educational / Simulated ADR Report
-
 ---
 
 ## 1. PATIENT INFORMATION
